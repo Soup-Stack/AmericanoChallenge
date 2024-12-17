@@ -1,13 +1,13 @@
 # AmericanoChallenge
 Colourdetection for colourblind people 
-# TaskTracker App 📝
+# ChromaID App 📝
 
-This is a simple iOS app built with Xcode that helps users track their daily tasks and stay productive.
+This is a simple iOS app built with Xcode that helps users, especially Colourblind users detect colours, mainly to help them match their outfits. 
 
 ![App Screenshot](screenshot.png)
 
 ## Features
--help blind people detect colours, mainly to help them pick outfits 
+-help colourblind people detect colours, mainly to help them pick outfits 
 
 ## Installation
 1. Clone this repository: `git clone <https://github.com/your-username/tasktracker.git`>
@@ -15,8 +15,7 @@ This is a simple iOS app built with Xcode that helps users track their daily tas
 3. Run the app on a simulator or connected device.
 
 ## Credits
-- [SwiftLint](https://github.com/realm/SwiftLint) for code linting.
-- Special thanks to John Doe for UI feedback.
+- Thank you ChatGPT for helping me 
+- Special thanks to myself for not giving up.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
